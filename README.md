@@ -1,9 +1,6 @@
-# WebDev-Day-1
 # Web Development Journey 🚀
 
 Hi, I am Pratik Uchitkar.
-
-This repository contains my daily Web Development practice and projects.
 
 ## Day 1
 - HTML Introduction
@@ -12,4 +9,15 @@ This repository contains my daily Web Development practice and projects.
 - Paragraphs
 - Boilerplate Code
 
-More updates coming daily.
+## Day 2
+- Ordered List
+- Unordered List
+- Anchor Tag
+- Image Tag
+- Attributes
+- BR Tag
+- Comments
+- Bold, Italic, Underline
+
+## Goal
+Become a MERN Stack Developer and get Internship/Job.
