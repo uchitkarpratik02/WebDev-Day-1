@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    color: red;
+    background-color: chartreuse;
+}
+main{
+    text-align: center;
+}
+h1{
+    color: rgb(15, 57, 57);
+    background-color: rgb(150, 55, 55);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px ;
+}
+p{
+    color: teal;
+}
+h2{
+    color: burlywood;
+    background-color: darkred;
+    text-decoration: yellowgreen underline dotted;
+}
+
+
+
+
+fotter{
+    text-align: center;
+    background: rgb(5, 144, 7);
+    color: whitesmoke;
+}
+div{ text-align: center;}
+a{
+    text-decoration: none;
+}
