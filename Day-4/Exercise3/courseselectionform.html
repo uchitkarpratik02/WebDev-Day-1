@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Selection Form</title>
+</head>
+<body>
+    <h1>Course Selection Form</h1>
+    <form action="action.php">
+        <div>
+            <label for="sm">Student Name:</label>
+            <input type="text" id="sm" placeholder="Enter Your Name">
+        </div>
+        <br>
+        <div>
+            <label for="ed">Email Address:</label>
+            <input type="email" id="ed" placeholder="Enter Your Email">
+        </div>
+        <br>
+        <div>
+            <label for="mn">Mobile No:</label>
+            <input type="number" id="mn" placeholder="Enter Your Mobile No.">
+        </div>
+        <br>
+        <div>
+            <label>Select Course:</label>
+            <select Name="course" id="Course">
+                <option>Select Course</option>
+                <option value="mern">MERN Stack</option>
+                <option value="java">Java Full Stack</option>
+                <option value="python">Python Development</option>
+                <option value="ds">Data Science</option>
+                <option value="do">DevOps</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label>Mode of Learnig:</label>
+            <input type="radio" id="on" Name="on"
+            value="online">
+            <label for="on"> Online</label>
+            <input type="radio" id="of" Name="on"
+            value="offline">
+            <label  for="of"> Offline</label>
+        </div>
+        <br>
+        <div>
+            <label>Skills Known: </label>
+            <input type="checkbox" name="sk" id="html">
+            <label for="html">HTML</label>
+            <input type="checkbox" name="sk" id="css">
+            <label for="css">CSS</label>
+            <input type="checkbox" name="sk" id="javas">
+            <label for="javas">JavaScript</label>
+            <input type="checkbox" name="sk" id="java">
+            <label for="java">Java</label>
+            <input type="checkbox" name="sk" id="python">
+            <label for="python">Python</label>
+        </div>
+        <br>
+        <div>
+            <lable for="sl">Skill Level:</lable>
+            <input id="sl" type="range" min="0" max="100" step="10">
+        </div>
+        <div>
+            <label> Why Do You Want To Join This Course? </label>
+            <textarea type="feedback" > Write Something</textarea>
+        </div>
+        <br>
+        <button Type="submit"> Submit        </button>
+
+
+
+
+
+
+    </form>
+    
+</body>
+</html>
