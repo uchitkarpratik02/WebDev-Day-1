@@ -1,1 +1,41 @@
+header{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    color: aliceblue;
+    background-color: black;
+}
+p{
+    color: rgb(1, 1, 85);
+}
+ul {
+  width: fit-content;    
+  margin-left: auto;  
+  margin-right: auto; 
+  color: rgb(10, 172, 142); 
+}
 
+span{
+    color: rgb(248, 9, 9);
+    background-color: rgb(255, 255, 6);
+}
+h2{
+    color: burlywood;
+    background-color: darkred;
+    text-decoration: yellowgreen underline dotted;
+}
+h1{
+    color: rgb(14, 51, 1);
+    background-color: rgb(0, 235, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px ;
+    font-size:xx-large;
+    text-align: center;
+
+}
+body{
+    text-align: center;
+}
