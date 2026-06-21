@@ -40,7 +40,6 @@ Hi, I'm **Pratik Uchitkar**. This repository documents my complete journey of be
 
 # 📅 Learning Progress
 
-## HTML
 
 - ✅ Day 1 - HTML Basics
 - ✅ Day 2 - Lists, Links & Images
