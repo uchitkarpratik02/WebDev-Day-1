@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+
+}
+ul {
+  width: fit-content;    
+  margin-left: auto;  
+  margin-right: auto; 
+}
+.projects{
+    font-style: italic;
+}
+#logo{
+    background: #1b74e4;
+    color: whitesmoke;
+}
+footer{
+    color: aliceblue;
+    background-color: black;
+}
+#logo:hover{
+    background: #1be446;
+    color: rgb(226, 36, 36);}
+*::selection{
+    background: #fd0101;
+    color: rgb(234, 230, 230);
+}
+
