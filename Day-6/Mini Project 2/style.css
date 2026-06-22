@@ -1,0 +1,30 @@
+footer{
+    color: aliceblue;
+    background-color: black;
+}
+*{
+    text-align: center;
+
+}
+main p{
+    color: rgb(255, 0, 251);
+    background-color: rgb(229, 255, 0);
+}
+nav>a{
+    text-decoration: none;
+    font-size: x-large;
+    font-family: monospace;
+}
+a:active{
+    text-decoration: none;
+    color: chartreuse;
+    background-color: rgb(229, 255, 0);
+}
+h1:hover{
+    color: rgb(84, 80, 121);
+    background-color: rgb(174, 179, 130);
+}
+h1::first-letter{
+    color: darkred;
+    background-color: aqua;
+}
