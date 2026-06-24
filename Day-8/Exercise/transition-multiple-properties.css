@@ -1,0 +1,12 @@
+.card:hover{
+    height: 120px;
+    width: 60px;
+    background-color: brown;
+    transition: 1s;
+    border-radius: 10px;
+}
+.card{
+    height: 100px;
+    width:50px;
+    background-color: rgb(42, 128, 165);
+}

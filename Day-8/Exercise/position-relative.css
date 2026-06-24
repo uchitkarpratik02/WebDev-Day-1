@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border:3px solid black;
+    margin:20px;
+}
+.child{
+    position:relative;
+    left:100px;
+    top:100px;
+}

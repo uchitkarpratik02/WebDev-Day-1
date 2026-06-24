@@ -1,0 +1,6 @@
+.scale-box{
+    background-color: brown;
+}
+.scale-box:hover{
+    transform: scale(1.5);
+}
