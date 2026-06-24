@@ -1,1 +1,14 @@
+.notification{
+    position:fixed;
+    top:20px;
+    left: 1250px;    
+    border: 2px solid  black;
+    box-shadow: 4px 4px 8px greenyellow;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.notification:hover{
+    border-radius: 20px;
+    transform: scale(1.2)
+}
 
