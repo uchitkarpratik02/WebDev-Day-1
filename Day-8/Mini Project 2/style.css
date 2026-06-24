@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+h2{
+    background-color:rgba(255,0,0,0.5);    
+    border:2px solid black;
+    color: rgb(255, 0, 0);
+    
+    
+}
+h2:hover{
+    
+    background-image: url(image.png);
+    background-size: cover;   
+    transition: 1s;
+    border-radius: 25px;
+    
+}
+button{
+    background-color: rgb(196, 255, 4);
+    box-shadow: 4px 4px 16px rgb(255, 0, 0);
+}
+button:hover{
+    opacity: 0.5;
+        
+}
