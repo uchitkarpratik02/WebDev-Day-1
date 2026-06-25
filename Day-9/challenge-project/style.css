@@ -1,0 +1,26 @@
+section{
+    height: 120px;
+    width: 480px;
+    border: 2px solid black;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+       
+}
+.plan{
+    border: 2px solid black;
+    background-color: rgb(255, 0, 0);
+    width: 120px;    
+    height: 70px;
+    text-align: center;
+    transition: 2s;     
+}
+h2{
+    display: inline;    
+}
+.plan:hover{
+    border-radius: 25px;
+}
+
+
