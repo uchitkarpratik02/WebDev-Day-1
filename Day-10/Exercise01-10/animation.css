@@ -1,0 +1,25 @@
+@keyframes move {
+    from{ 
+        background-color: rgb(255, 0, 0);
+        transform: translateX(0);
+
+    }
+    to{
+        background-color: rgb(255, 255, 0);
+        transform: translateX(300px);
+    }    
+}
+.box{
+    color: whitesmoke;
+    background-color: black;
+    height: 50px;
+    width:200px;
+    text-align: center;
+    animation-name: move;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+}

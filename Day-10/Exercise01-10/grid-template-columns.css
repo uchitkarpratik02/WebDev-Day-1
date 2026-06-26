@@ -1,0 +1,23 @@
+.container1{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    border: 2px solid black;
+
+}
+.container2{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+
+}
+div{
+    height:80px;
+    width: 80px;
+    background-color:red;
+    border: 2px solid black;
+}

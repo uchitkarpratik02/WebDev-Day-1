@@ -1,0 +1,21 @@
+div{
+    height:100px;
+    width: 100px;
+    background-color:red;
+}
+.container{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2,1fr);
+}
+.container2{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(2,150px);
+}

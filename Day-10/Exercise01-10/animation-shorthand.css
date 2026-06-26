@@ -1,0 +1,16 @@
+.circle{    
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    animation: identifier 2s ease-in-out 2s infinite alternate;
+}
+@keyframes identifier {
+    0%{
+        transform: translateY(0%);
+        background-color: rgb(255, 0, 0);
+    }    
+    100%{
+        transform: translateY(500px);
+        background-color: green;        
+    }
+}

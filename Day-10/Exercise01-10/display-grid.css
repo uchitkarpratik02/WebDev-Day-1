@@ -1,0 +1,13 @@
+.container{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 100px 100px;
+
+}
+div{
+    height:100px;
+    width: 100px;
+    background-color:red;
+}

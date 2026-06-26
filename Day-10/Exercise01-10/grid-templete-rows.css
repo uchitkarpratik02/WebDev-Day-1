@@ -1,0 +1,14 @@
+.container{
+    height:300px;
+    width: 600px;
+    background-color: aqua;
+    display: grid;
+    grid-template-rows: 100px 150px;
+}
+div{
+    height:100px;
+    width: 100px;
+    background-color:red;
+}
+
+
