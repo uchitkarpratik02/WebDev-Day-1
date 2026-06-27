@@ -1,0 +1,27 @@
+.gallery{
+    width: 80%;
+    height: 500px;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: repeat(4 ,1fr);
+    grid-template-rows: repeat(2,1fr);
+    grid-gap: auto;
+    justify-items: center;
+    align-items: center;
+    border: 2px solid black;
+
+
+}
+.image{
+    height: 210px;
+    width: 280px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(251, 213, 0);
+    transition: 2s;
+}
+img:hover{
+    transform: scale(1.02);
+    box-shadow: 4px 4px 10px rgb(255, 25, 0);
+
+}
