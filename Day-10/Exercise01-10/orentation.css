@@ -1,0 +1,6 @@
+@media (orientation: landscape){
+    div{background-color: rgb(255, 0, 0);}
+}
+@media (orientation: portrait){
+    div{background-color: rgb(0, 242, 255);}
+}

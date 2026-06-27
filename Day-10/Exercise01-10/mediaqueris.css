@@ -1,0 +1,14 @@
+div{
+    background-color: goldenrod;
+}
+
+
+@media (max-width:786px){
+    div{background-color: rgb(255, 0, 0);}
+    h5{font-size: medium;   }
+
+}
+@media(min-width:800px) and (max-width:1200px){
+    div{background-color: rgb(0, 200, 255);}
+    h5{font-size: xx-large;   }
+}

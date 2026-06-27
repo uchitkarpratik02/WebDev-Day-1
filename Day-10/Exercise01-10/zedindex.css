@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    z-index: 2;
+}
+.blue{
+    background-color: blue;
+    position: relative;
+    bottom: 50px;
+    z-index: 1;
+}
