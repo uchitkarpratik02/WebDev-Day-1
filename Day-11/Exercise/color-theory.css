@@ -1,0 +1,13 @@
+.primary{
+    background-color:#FFE2E2;
+}
+.secondary{
+    background-color: #F5CBCB;
+}
+.accent{
+    background-color: #C5B3D3;
+}
+*{
+    background-color: #FBEFEF;
+    color: #6400ac;
+}

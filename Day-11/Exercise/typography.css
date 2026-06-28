@@ -1,0 +1,9 @@
+h1{
+    font-size: xx-large;
+    font-weight: 900;
+    letter-spacing: 0.3pc;
+}
+p{
+    line-height: 25px;
+    text-transform: lowercase;    
+}
