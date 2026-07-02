@@ -1,0 +1,10 @@
+let a = 25;
+let b = 10;
+let c = 5;
+let d = 3;
+console.log( "a+b=", a+b);
+console.log("a-b=", a-b);
+console.log( "a*b=", a*b);
+console.log( "a/b=",a/b);
+console.log( "a%b=", a%b);
+console.log( "c**d=", c**d);
